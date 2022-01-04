@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NetVoice</string>
+    
+    <string name="action_stop">Stop</string>
+    <string name="action_start">Start</string>
+    <string name="action_clear">Clear</string>
+    <string name="request_hint">what are you interested in?</string>
+    <string name="error_not_under">Sorry,I don\'t understand, can you rephrase?</string>
+    <string name="error_voice">Voice recognition unavailable</string>
+    <string name="error_something">Something went wrong</string>
+    <string name="error_tts">TTS is not ready</string>
+    
+</resources>
